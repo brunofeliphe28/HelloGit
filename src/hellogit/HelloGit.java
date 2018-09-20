@@ -7,6 +7,7 @@ public class HelloGit {
         System.out.println("marcelo gordao");
         
         int a = 5 ;
+        int x = 6;
     }
     
 }
